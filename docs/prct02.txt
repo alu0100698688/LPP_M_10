@@ -1,1 +1,2 @@
 Trabajo en equipo con git
+Los lenguajes compilados necesitan que se lea el código fuente y se cree un archivo objeto, mientras que los interpretados van leyendo cada línea, analizándola y ejecutándola al mismo tiempo.
