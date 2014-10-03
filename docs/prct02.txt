@@ -1,1 +1,2 @@
 Trabajo en equipo con git
+¿Cuál es la principal diferencia entre el contenido del fichero helloWorld.sh y helloWorld.rb? La principal diferencia es la primera línea del fichero. ¿Qué significado tiene la primera línea del fichero helloWorld.sh? La primera línea indica el intérprete que usará.
